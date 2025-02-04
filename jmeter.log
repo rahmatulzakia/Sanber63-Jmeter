@@ -1,0 +1,75 @@
+2025-02-04 21:07:51,304 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-02-04 21:07:51,314 INFO o.a.j.JMeter: Loading user properties from: /Users/rahmatulzakia/Downloads/apache-jmeter-5.6.3/bin/user.properties
+2025-02-04 21:07:51,315 INFO o.a.j.JMeter: Loading system properties from: /Users/rahmatulzakia/Downloads/apache-jmeter-5.6.3/bin/system.properties
+2025-02-04 21:07:51,317 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-02-04 21:07:51,317 INFO o.a.j.JMeter: Version 5.6.3
+2025-02-04 21:07:51,317 INFO o.a.j.JMeter: java.version=23.0.1
+2025-02-04 21:07:51,317 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-02-04 21:07:51,317 INFO o.a.j.JMeter: os.name=Mac OS X
+2025-02-04 21:07:51,317 INFO o.a.j.JMeter: os.arch=aarch64
+2025-02-04 21:07:51,317 INFO o.a.j.JMeter: os.version=15.2
+2025-02-04 21:07:51,318 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-02-04 21:07:51,318 INFO o.a.j.JMeter: java.awt.headless=null
+2025-02-04 21:07:51,318 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-02-04 21:07:51,318 INFO o.a.j.JMeter: Available Processors =8
+2025-02-04 21:07:51,324 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-02-04 21:07:51,325 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-02-04 21:07:51,325 INFO o.a.j.JMeter: JMeterHome=/Users/rahmatulzakia/Downloads/apache-jmeter-5.6.3
+2025-02-04 21:07:51,325 INFO o.a.j.JMeter: user.dir  =/Users/rahmatulzakia/Downloads/Sanber63-Jmeter-main
+2025-02-04 21:07:51,325 INFO o.a.j.JMeter: PWD       =/Users/rahmatulzakia/Downloads/Sanber63-Jmeter-main
+2025-02-04 21:07:51,327 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: MacBook-Air-Rahmatul.local FullName: localhost
+2025-02-04 21:07:51,333 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-02-04 21:07:51,546 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2025-02-04 21:07:52,469 INFO o.a.j.r.ClassFinder: Will scan jar /Users/rahmatulzakia/Downloads/apache-jmeter-5.6.3/lib/ext/tag-jmeter-extn-1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-02-04 21:07:52,497 INFO o.a.j.r.ClassFinder: Will scan jar /Users/rahmatulzakia/Downloads/apache-jmeter-5.6.3/lib/ext/tag-jmeter-extn-1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-02-04 21:08:05,857 INFO o.a.j.s.FileServer: Default base='/Users/rahmatulzakia/Downloads/Sanber63-Jmeter-main'
+2025-02-04 21:08:05,859 INFO o.a.j.g.a.Load: Loading file: /Users/rahmatulzakia/Downloads/Sanber63-Jmeter-main/RahmatulZakia-ContactListApp.jmx
+2025-02-04 21:08:05,859 INFO o.a.j.s.FileServer: Set new base='/Users/rahmatulzakia/Downloads/Sanber63-Jmeter-main'
+2025-02-04 21:08:05,976 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-02-04 21:08:05,996 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-02-04 21:08:05,997 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-02-04 21:08:05,998 INFO o.a.j.s.SaveService: Loading file: /Users/rahmatulzakia/Downloads/Sanber63-Jmeter-main/RahmatulZakia-ContactListApp.jmx
+2025-02-04 21:08:06,011 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2025-02-04 21:08:06,012 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2025-02-04 21:08:06,016 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-04 21:08:06,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-04 21:08:06,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-04 21:08:06,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-04 21:08:06,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-02-04 21:08:06,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-02-04 21:08:06,221 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-02-04 21:08:06,222 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-02-04 21:08:06,222 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-02-04 21:08:06,222 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-02-04 21:08:06,274 INFO o.a.j.r.ClassFinder: Will scan jar /Users/rahmatulzakia/Downloads/apache-jmeter-5.6.3/lib/ext/tag-jmeter-extn-1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-02-04 21:08:06,281 INFO o.a.j.r.ClassFinder: Will scan jar /Users/rahmatulzakia/Downloads/apache-jmeter-5.6.3/lib/ext/tag-jmeter-extn-1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-02-04 21:08:06,330 INFO o.a.j.s.FileServer: Set new base='/Users/rahmatulzakia/Downloads/Sanber63-Jmeter-main'
+2025-02-04 21:21:39,365 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-02-04 21:21:39,367 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-02-04 21:21:39,367 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-02-04 21:21:39,368 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-02-04 21:21:39,368 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-02-04 21:21:39,408 INFO o.a.j.r.ClassFinder: Will scan jar /Users/rahmatulzakia/Downloads/apache-jmeter-5.6.3/lib/ext/tag-jmeter-extn-1.1.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-02-04 21:21:39,420 INFO c.t.j.e.c.PropertyReader: Property file reader - loading the properties from /Users/rahmatulzakia/Downloads/Sanber63-Jmeter-main/config.properties
+2025-02-04 21:21:39,420 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-02-04 21:21:39,459 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2025-02-04 21:21:39,459 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Users.
+2025-02-04 21:21:39,459 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-02-04 21:21:39,460 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-02-04 21:21:39,462 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-02-04 21:21:39,462 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-02-04 21:21:39,463 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2025-02-04 21:21:39,474 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = MacBook-Air-Rahmatul.local
+2025-02-04 21:21:39,477 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-02-04 21:21:39,568 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2025-02-04 21:21:39,570 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2025-02-04 21:21:39,570 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2025-02-04 21:21:39,899 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2025-02-04 21:21:39,901 INFO o.a.j.u.SSLManager: KeyStore created OK
+2025-02-04 21:21:39,901 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2025-02-04 21:21:42,382 INFO o.a.j.s.FileServer: Stored: /Users/rahmatulzakia/Downloads/Sanber63-Jmeter-main/contact-data.csv
+2025-02-04 21:22:15,597 INFO o.a.j.t.JMeterThread: Thread is done: Users 1-1
+2025-02-04 21:22:15,598 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2025-02-04 21:22:15,600 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-02-04 21:22:15,600 INFO o.a.j.s.FileServer: Close: /Users/rahmatulzakia/Downloads/Sanber63-Jmeter-main/contact-data.csv
+2025-02-04 21:22:15,604 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
