@@ -1,0 +1,76 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738661046855,1176,Add Users,201,Created,Transaction Controller - Stress Testing 2-1,text,true,,1259,322,5,8,https://thinking-tester-contact-list.herokuapp.com/users,1176,0,856
+1738661047056,1123,Add Users,201,Created,Transaction Controller - Stress Testing 2-2,text,true,,1259,322,5,8,https://thinking-tester-contact-list.herokuapp.com/users,1123,0,806
+1738661048032,322,Log In User,200,OK,Transaction Controller - Stress Testing 2-1,text,true,,1252,441,5,9,https://thinking-tester-contact-list.herokuapp.com/users/login,322,0,0
+1738661047255,1127,Add Users,201,Created,Transaction Controller - Stress Testing 2-3,text,true,,1255,322,5,9,https://thinking-tester-contact-list.herokuapp.com/users,1127,0,802
+1738661048179,319,Log In User,200,OK,Transaction Controller - Stress Testing 2-2,text,true,,1252,441,5,9,https://thinking-tester-contact-list.herokuapp.com/users/login,319,0,0
+1738661047454,1128,Add Users,201,Created,Transaction Controller - Stress Testing 2-4,text,true,,1255,322,5,9,https://thinking-tester-contact-list.herokuapp.com/users,1128,0,815
+1738661048355,331,Update User,200,OK,Transaction Controller - Stress Testing 2-1,text,true,,858,674,5,9,https://thinking-tester-contact-list.herokuapp.com/users/me,331,0,0
+1738661048382,321,Log In User,200,OK,Transaction Controller - Stress Testing 2-3,text,true,,1252,441,5,9,https://thinking-tester-contact-list.herokuapp.com/users/login,321,0,0
+1738661047655,1126,Add Users,201,Created,Transaction Controller - Stress Testing 2-5,text,true,,1255,322,5,9,https://thinking-tester-contact-list.herokuapp.com/users,1126,0,798
+1738661048499,336,Update User,200,OK,Transaction Controller - Stress Testing 2-2,text,true,,858,674,5,9,https://thinking-tester-contact-list.herokuapp.com/users/me,336,0,0
+1738661048583,323,Log In User,200,OK,Transaction Controller - Stress Testing 2-4,text,true,,1252,441,5,10,https://thinking-tester-contact-list.herokuapp.com/users/login,323,0,0
+1738661048687,288,Get User Profile,200,OK,Transaction Controller - Stress Testing 2-1,text,true,,858,523,5,10,https://thinking-tester-contact-list.herokuapp.com/users/me,288,0,0
+1738661048704,313,Update User,200,OK,Transaction Controller - Stress Testing 2-3,text,true,,858,674,5,10,https://thinking-tester-contact-list.herokuapp.com/users/me,313,0,0
+1738661048782,315,Log In User,200,OK,Transaction Controller - Stress Testing 2-5,text,true,,1252,441,5,10,https://thinking-tester-contact-list.herokuapp.com/users/login,315,0,0
+1738661048836,291,Get User Profile,200,OK,Transaction Controller - Stress Testing 2-2,text,true,,858,523,5,10,https://thinking-tester-contact-list.herokuapp.com/users/me,291,0,0
+1738661048906,325,Update User,200,OK,Transaction Controller - Stress Testing 2-4,text,true,,858,674,5,10,https://thinking-tester-contact-list.herokuapp.com/users/me,325,0,0
+1738661048975,310,Add Contact,201,Created,Transaction Controller - Stress Testing 2-1,text,true,,1066,862,5,10,https://thinking-tester-contact-list.herokuapp.com/contacts,310,0,0
+1738661049017,283,Get User Profile,200,OK,Transaction Controller - Stress Testing 2-3,text,true,,858,523,5,10,https://thinking-tester-contact-list.herokuapp.com/users/me,283,0,0
+1738661049097,320,Update User,200,OK,Transaction Controller - Stress Testing 2-5,text,true,,858,674,5,11,https://thinking-tester-contact-list.herokuapp.com/users/me,320,0,0
+1738661049127,316,Add Contact,201,Created,Transaction Controller - Stress Testing 2-2,text,true,,1077,873,5,11,https://thinking-tester-contact-list.herokuapp.com/contacts,316,0,0
+1738661049231,289,Get User Profile,200,OK,Transaction Controller - Stress Testing 2-4,text,true,,858,523,5,11,https://thinking-tester-contact-list.herokuapp.com/users/me,289,0,0
+1738661049286,307,Get Contact List,200,OK,Transaction Controller - Stress Testing 2-1,text,true,,1063,852,5,11,https://thinking-tester-contact-list.herokuapp.com/contacts,307,0,0
+1738661049301,299,Add Contact,201,Created,Transaction Controller - Stress Testing 2-3,text,true,,1072,868,5,11,https://thinking-tester-contact-list.herokuapp.com/contacts,299,0,0
+1738661049418,289,Get User Profile,200,OK,Transaction Controller - Stress Testing 2-5,text,true,,858,523,5,11,https://thinking-tester-contact-list.herokuapp.com/users/me,289,0,0
+1738661049443,343,Get Contact List,200,OK,Transaction Controller - Stress Testing 2-2,text,true,,1074,852,5,11,https://thinking-tester-contact-list.herokuapp.com/contacts,343,0,0
+1738661049520,298,Add Contact,201,Created,Transaction Controller - Stress Testing 2-4,text,true,,1079,875,5,11,https://thinking-tester-contact-list.herokuapp.com/contacts,298,0,0
+1738661049594,299,Get Contact,200,OK,Transaction Controller - Stress Testing 2-1,text,true,,1061,548,5,12,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcb6,299,0,0
+1738661049601,299,Get Contact List,200,OK,Transaction Controller - Stress Testing 2-3,text,true,,1069,852,5,12,https://thinking-tester-contact-list.herokuapp.com/contacts,299,0,0
+1738661049707,305,Add Contact,201,Created,Transaction Controller - Stress Testing 2-5,text,true,,1066,862,5,12,https://thinking-tester-contact-list.herokuapp.com/contacts,305,0,0
+1738661049786,300,Get Contact,200,OK,Transaction Controller - Stress Testing 2-2,text,true,,1072,548,5,12,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcb7,300,0,0
+1738661049818,295,Get Contact List,200,OK,Transaction Controller - Stress Testing 2-4,text,true,,1076,852,5,12,https://thinking-tester-contact-list.herokuapp.com/contacts,295,0,0
+1738661049901,300,Get Contact,200,OK,Transaction Controller - Stress Testing 2-3,text,true,,1071,548,5,12,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20bf,300,0,0
+1738661049894,307,Update Contact - PUT,200,OK,Transaction Controller - Stress Testing 2-1,text,true,,1066,941,5,12,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcb6,307,0,0
+1738661050012,293,Get Contact List,200,OK,Transaction Controller - Stress Testing 2-5,text,true,,1067,852,5,12,https://thinking-tester-contact-list.herokuapp.com/contacts,293,0,0
+1738661050086,302,Update Contact - PUT,200,OK,Transaction Controller - Stress Testing 2-2,text,true,,1066,941,5,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcb7,302,0,0
+1738661050113,298,Get Contact,200,OK,Transaction Controller - Stress Testing 2-4,text,true,,1078,548,5,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20c1,298,0,0
+1738661050201,301,Update Contact - PUT,200,OK,Transaction Controller - Stress Testing 2-3,text,true,,1066,941,5,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20bf,301,0,0
+1738661050202,304,Update Contact - PATCH,200,OK,Transaction Controller - Stress Testing 2-1,text,true,,1067,651,5,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcb6,304,0,0
+1738661050305,293,Get Contact,200,OK,Transaction Controller - Stress Testing 2-5,text,true,,1065,548,5,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcbb,293,0,0
+1738661050388,325,Update Contact - PATCH,200,OK,Transaction Controller - Stress Testing 2-2,text,true,,1067,651,5,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcb7,325,0,0
+1738661050412,302,Update Contact - PUT,200,OK,Transaction Controller - Stress Testing 2-4,text,true,,1066,941,5,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20c1,302,0,0
+1738661050507,298,Delete Contact,200,OK,Transaction Controller - Stress Testing 2-1,text,true,,756,622,5,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcb6,298,0,0
+1738661050502,324,Update Contact - PATCH,200,OK,Transaction Controller - Stress Testing 2-3,text,true,,1067,651,5,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20bf,324,0,0
+1738661050599,299,Update Contact - PUT,200,OK,Transaction Controller - Stress Testing 2-5,text,true,,1066,941,5,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcbb,299,0,0
+1738661050713,306,Delete Contact,200,OK,Transaction Controller - Stress Testing 2-2,text,true,,756,622,5,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcb7,306,0,0
+1738661050715,319,Update Contact - PATCH,200,OK,Transaction Controller - Stress Testing 2-4,text,true,,1067,651,5,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20c1,319,0,0
+1738661050806,305,Log Out User,200,OK,Transaction Controller - Stress Testing 2-1,,true,,659,547,5,14,https://thinking-tester-contact-list.herokuapp.com/users/logout,305,0,0
+1738661050827,315,Delete Contact,200,OK,Transaction Controller - Stress Testing 2-3,text,true,,756,622,5,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20bf,315,0,0
+1738661050899,315,Update Contact - PATCH,200,OK,Transaction Controller - Stress Testing 2-5,text,true,,1063,651,5,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcbb,315,0,0
+1738661051019,300,Log Out User,200,OK,Transaction Controller - Stress Testing 2-2,,true,,655,547,5,14,https://thinking-tester-contact-list.herokuapp.com/users/logout,300,0,0
+1738661051034,302,Delete Contact,200,OK,Transaction Controller - Stress Testing 2-4,text,true,,752,622,5,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20c1,302,0,0
+1738661051111,317,Add Users,201,Created,Transaction Controller - Stress Testing 2-1,text,true,,1255,487,5,15,https://thinking-tester-contact-list.herokuapp.com/users,317,0,0
+1738661051142,305,Log Out User,200,OK,Transaction Controller - Stress Testing 2-3,,true,,655,547,5,15,https://thinking-tester-contact-list.herokuapp.com/users/logout,305,0,0
+1738661051214,298,Delete Contact,200,OK,Transaction Controller - Stress Testing 2-5,text,true,,752,622,5,15,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9e0f4720013abbcbb,298,0,0
+1738661051336,297,Log Out User,200,OK,Transaction Controller - Stress Testing 2-4,,true,,655,547,5,15,https://thinking-tester-contact-list.herokuapp.com/users/logout,297,0,0
+1738661051319,340,Add Users,201,Created,Transaction Controller - Stress Testing 2-2,text,true,,1255,487,5,15,https://thinking-tester-contact-list.herokuapp.com/users,340,0,0
+1738661051429,316,Log In User,200,OK,Transaction Controller - Stress Testing 2-1,text,true,,1252,441,5,15,https://thinking-tester-contact-list.herokuapp.com/users/login,316,0,0
+1738661051447,334,Add Users,201,Created,Transaction Controller - Stress Testing 2-3,text,true,,1255,487,5,15,https://thinking-tester-contact-list.herokuapp.com/users,334,0,0
+1738661051512,294,Log Out User,200,OK,Transaction Controller - Stress Testing 2-5,,true,,655,547,5,15,https://thinking-tester-contact-list.herokuapp.com/users/logout,294,0,0
+1738661051633,319,Add Users,201,Created,Transaction Controller - Stress Testing 2-4,text,true,,1255,487,5,15,https://thinking-tester-contact-list.herokuapp.com/users,319,0,0
+1738661051659,341,Log In User,200,OK,Transaction Controller - Stress Testing 2-2,text,true,,1252,441,5,15,https://thinking-tester-contact-list.herokuapp.com/users/login,341,0,0
+1738661051746,289,Delete User,200,OK,Transaction Controller - Stress Testing 2-1,,true,,655,596,5,15,https://thinking-tester-contact-list.herokuapp.com/users/me,289,0,0
+1738661046854,5169,Transaction Controller,200,"Number of samples in transaction : 14, number of failing samples : 0",Transaction Controller - Stress Testing 2-1,,true,,14127,8507,5,15,null,5169,12,856
+1738661051782,338,Log In User,200,OK,Transaction Controller - Stress Testing 2-3,text,true,,1252,441,4,14,https://thinking-tester-contact-list.herokuapp.com/users/login,338,0,0
+1738661051806,352,Add Users,201,Created,Transaction Controller - Stress Testing 2-5,text,true,,1255,487,4,14,https://thinking-tester-contact-list.herokuapp.com/users,352,0,0
+1738661051952,319,Log In User,200,OK,Transaction Controller - Stress Testing 2-4,text,true,,1256,441,4,14,https://thinking-tester-contact-list.herokuapp.com/users/login,319,0,0
+1738661052000,298,Delete User,200,OK,Transaction Controller - Stress Testing 2-2,,true,,659,596,4,14,https://thinking-tester-contact-list.herokuapp.com/users/me,298,0,0
+1738661047055,5240,Transaction Controller,200,"Number of samples in transaction : 14, number of failing samples : 0",Transaction Controller - Stress Testing 2-2,,true,,14160,8518,4,14,null,5240,3,806
+1738661052121,295,Delete User,200,OK,Transaction Controller - Stress Testing 2-3,,true,,659,596,3,13,https://thinking-tester-contact-list.herokuapp.com/users/me,295,0,0
+1738661047254,5154,Transaction Controller,200,"Number of samples in transaction : 14, number of failing samples : 0",Transaction Controller - Stress Testing 2-3,,true,,14145,8513,3,13,null,5154,8,802
+1738661052158,316,Log In User,200,OK,Transaction Controller - Stress Testing 2-5,text,true,,1256,441,2,12,https://thinking-tester-contact-list.herokuapp.com/users/login,316,0,0
+1738661052272,289,Delete User,200,OK,Transaction Controller - Stress Testing 2-4,,true,,659,596,2,12,https://thinking-tester-contact-list.herokuapp.com/users/me,289,0,0
+1738661047454,5103,Transaction Controller,200,"Number of samples in transaction : 14, number of failing samples : 0",Transaction Controller - Stress Testing 2-4,,true,,14166,8520,2,12,null,5103,5,815
+1738661052474,295,Delete User,200,OK,Transaction Controller - Stress Testing 2-5,,true,,659,596,1,11,https://thinking-tester-contact-list.herokuapp.com/users/me,295,0,0
+1738661047654,5110,Transaction Controller,200,"Number of samples in transaction : 14, number of failing samples : 0",Transaction Controller - Stress Testing 2-5,,true,,14127,8507,1,11,null,5110,5,798

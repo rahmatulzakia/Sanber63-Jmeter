@@ -1,0 +1,381 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738661046850,1203,Add Users,201,Created,Simple Controller - Load Testing 1-1,text,true,,1259,322,3,8,https://thinking-tester-contact-list.herokuapp.com/users,1203,0,878
+1738661048054,320,Log In User,200,OK,Simple Controller - Load Testing 1-1,text,true,,1252,441,4,9,https://thinking-tester-contact-list.herokuapp.com/users/login,320,0,0
+1738661047352,1113,Add Users,201,Created,Simple Controller - Load Testing 1-2,text,true,,1255,322,4,9,https://thinking-tester-contact-list.herokuapp.com/users,1113,0,801
+1738661048374,327,Update User,200,OK,Simple Controller - Load Testing 1-1,text,true,,858,674,4,9,https://thinking-tester-contact-list.herokuapp.com/users/me,327,0,0
+1738661048465,335,Log In User,200,OK,Simple Controller - Load Testing 1-2,text,true,,1252,441,4,9,https://thinking-tester-contact-list.herokuapp.com/users/login,335,0,0
+1738661047850,1124,Add Users,201,Created,Simple Controller - Load Testing 1-3,text,true,,1255,322,5,10,https://thinking-tester-contact-list.herokuapp.com/users,1124,0,804
+1738661048701,285,Get User Profile,200,OK,Simple Controller - Load Testing 1-1,text,true,,858,523,5,10,https://thinking-tester-contact-list.herokuapp.com/users/me,284,0,0
+1738661048801,326,Update User,200,OK,Simple Controller - Load Testing 1-2,text,true,,858,674,5,10,https://thinking-tester-contact-list.herokuapp.com/users/me,326,0,0
+1738661048986,297,Add Contact,201,Created,Simple Controller - Load Testing 1-1,text,true,,1057,853,5,10,https://thinking-tester-contact-list.herokuapp.com/contacts,297,0,0
+1738661048974,319,Log In User,200,OK,Simple Controller - Load Testing 1-3,text,true,,1252,441,5,10,https://thinking-tester-contact-list.herokuapp.com/users/login,319,0,0
+1738661049127,304,Get User Profile,200,OK,Simple Controller - Load Testing 1-2,text,true,,858,523,6,11,https://thinking-tester-contact-list.herokuapp.com/users/me,304,0,0
+1738661048352,1149,Add Users,201,Created,Simple Controller - Load Testing 1-4,text,true,,1255,322,6,11,https://thinking-tester-contact-list.herokuapp.com/users,1149,0,828
+1738661049284,293,Get Contact List,200,OK,Simple Controller - Load Testing 1-1,text,true,,1054,852,6,11,https://thinking-tester-contact-list.herokuapp.com/contacts,293,0,0
+1738661049293,318,Update User,200,OK,Simple Controller - Load Testing 1-3,text,true,,858,674,6,11,https://thinking-tester-contact-list.herokuapp.com/users/me,318,0,0
+1738661049431,302,Add Contact,201,Created,Simple Controller - Load Testing 1-2,text,true,,1057,853,6,11,https://thinking-tester-contact-list.herokuapp.com/contacts,302,0,0
+1738661049502,323,Log In User,200,OK,Simple Controller - Load Testing 1-4,text,true,,1252,441,6,11,https://thinking-tester-contact-list.herokuapp.com/users/login,323,0,0
+1738661049577,295,Get Contact,200,OK,Simple Controller - Load Testing 1-1,text,true,,1052,548,7,12,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20be,295,0,0
+1738661049611,286,Get User Profile,200,OK,Simple Controller - Load Testing 1-3,text,true,,858,523,7,12,https://thinking-tester-contact-list.herokuapp.com/users/me,286,0,0
+1738661048851,1190,Add Users,201,Created,Simple Controller - Load Testing 1-5,text,true,,1255,322,7,12,https://thinking-tester-contact-list.herokuapp.com/users,1190,0,856
+1738661049733,338,Get Contact List,200,OK,Simple Controller - Load Testing 1-2,text,true,,1054,852,7,12,https://thinking-tester-contact-list.herokuapp.com/contacts,338,0,0
+1738661049872,270,Update Contact - PUT,400,Bad Request,Simple Controller - Load Testing 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",922,941,7,12,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20be,270,0,0
+1738661049826,330,Update User,200,OK,Simple Controller - Load Testing 1-4,text,true,,858,674,7,12,https://thinking-tester-contact-list.herokuapp.com/users/me,330,0,0
+1738661049897,304,Add Contact,201,Created,Simple Controller - Load Testing 1-3,text,true,,1061,853,7,12,https://thinking-tester-contact-list.herokuapp.com/contacts,304,0,0
+1738661050041,322,Log In User,200,OK,Simple Controller - Load Testing 1-5,text,true,,1256,441,8,13,https://thinking-tester-contact-list.herokuapp.com/users/login,322,0,0
+1738661050071,294,Get Contact,200,OK,Simple Controller - Load Testing 1-2,text,true,,1056,548,8,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20c0,294,0,0
+1738661050156,305,Get User Profile,200,OK,Simple Controller - Load Testing 1-4,text,true,,862,523,8,13,https://thinking-tester-contact-list.herokuapp.com/users/me,305,0,0
+1738661049352,1135,Add Users,201,Created,Simple Controller - Load Testing 1-6,text,true,,1259,322,8,13,https://thinking-tester-contact-list.herokuapp.com/users,1135,0,818
+1738661050201,293,Get Contact List,200,OK,Simple Controller - Load Testing 1-3,text,true,,1058,852,8,13,https://thinking-tester-contact-list.herokuapp.com/contacts,293,0,0
+1738661050366,263,Update Contact - PUT,400,Bad Request,Simple Controller - Load Testing 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",926,938,8,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcb9ad458a00134b20c0,263,0,0
+1738661050363,323,Update User,200,OK,Simple Controller - Load Testing 1-5,text,true,,862,674,8,13,https://thinking-tester-contact-list.herokuapp.com/users/me,323,0,0
+1738661050462,307,Add Contact,201,Created,Simple Controller - Load Testing 1-4,text,true,,1061,853,8,13,https://thinking-tester-contact-list.herokuapp.com/contacts,307,0,0
+1738661050494,306,Get Contact,200,OK,Simple Controller - Load Testing 1-3,text,true,,1056,548,8,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbaad458a00134b20c4,306,0,0
+1738661050487,333,Log In User,200,OK,Simple Controller - Load Testing 1-6,text,true,,1256,441,8,13,https://thinking-tester-contact-list.herokuapp.com/users/login,333,0,0
+1738661049850,1121,Add Users,201,Created,Simple Controller - Load Testing 1-7,text,true,,1259,322,9,14,https://thinking-tester-contact-list.herokuapp.com/users,1121,0,800
+1738661050686,292,Get User Profile,200,OK,Simple Controller - Load Testing 1-5,text,true,,862,523,9,14,https://thinking-tester-contact-list.herokuapp.com/users/me,292,0,0
+1738661050769,304,Get Contact List,200,OK,Simple Controller - Load Testing 1-4,text,true,,1058,852,9,14,https://thinking-tester-contact-list.herokuapp.com/contacts,304,0,0
+1738661050801,272,Update Contact - PUT,400,Bad Request,Simple Controller - Load Testing 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",926,929,9,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbaad458a00134b20c4,272,0,0
+1738661050820,323,Update User,200,OK,Simple Controller - Load Testing 1-6,text,true,,862,674,9,14,https://thinking-tester-contact-list.herokuapp.com/users/me,323,0,0
+1738661050979,319,Add Contact,201,Created,Simple Controller - Load Testing 1-5,text,true,,1057,853,9,14,https://thinking-tester-contact-list.herokuapp.com/contacts,319,0,0
+1738661050971,327,Log In User,200,OK,Simple Controller - Load Testing 1-7,text,true,,1252,441,9,14,https://thinking-tester-contact-list.herokuapp.com/users/login,327,0,0
+1738661051073,309,Get Contact,200,OK,Simple Controller - Load Testing 1-4,text,true,,1052,548,10,15,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbaad458a00134b20c7,309,0,0
+1738661051143,297,Get User Profile,200,OK,Simple Controller - Load Testing 1-6,text,true,,858,523,10,15,https://thinking-tester-contact-list.herokuapp.com/users/me,297,0,0
+1738661050350,1105,Add Users,201,Created,Simple Controller - Load Testing 1-8,text,true,,1255,322,10,15,https://thinking-tester-contact-list.herokuapp.com/users,1105,0,789
+1738661051298,335,Get Contact List,200,OK,Simple Controller - Load Testing 1-5,text,true,,1054,852,10,15,https://thinking-tester-contact-list.herokuapp.com/contacts,335,0,0
+1738661051298,335,Update User,200,OK,Simple Controller - Load Testing 1-7,text,true,,858,674,10,15,https://thinking-tester-contact-list.herokuapp.com/users/me,335,0,0
+1738661051383,272,Update Contact - PUT,400,Bad Request,Simple Controller - Load Testing 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",922,937,10,15,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbaad458a00134b20c7,272,0,0
+1738661051440,322,Add Contact,201,Created,Simple Controller - Load Testing 1-6,text,true,,1057,853,10,15,https://thinking-tester-contact-list.herokuapp.com/contacts,322,0,0
+1738661051456,329,Log In User,200,OK,Simple Controller - Load Testing 1-8,text,true,,1252,441,10,15,https://thinking-tester-contact-list.herokuapp.com/users/login,329,0,0
+1738661051634,281,Get User Profile,200,OK,Simple Controller - Load Testing 1-7,text,true,,858,523,10,15,https://thinking-tester-contact-list.herokuapp.com/users/me,281,0,0
+1738661051633,309,Get Contact,200,OK,Simple Controller - Load Testing 1-5,text,true,,1052,548,10,15,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbbad458a00134b20c9,309,0,0
+1738661050851,1142,Add Users,201,Created,Simple Controller - Load Testing 1-9,text,true,,1255,322,10,15,https://thinking-tester-contact-list.herokuapp.com/users,1142,0,804
+1738661051763,300,Get Contact List,200,OK,Simple Controller - Load Testing 1-6,text,true,,1054,852,10,14,https://thinking-tester-contact-list.herokuapp.com/contacts,300,0,0
+1738661051785,349,Update User,200,OK,Simple Controller - Load Testing 1-8,text,true,,858,674,10,14,https://thinking-tester-contact-list.herokuapp.com/users/me,349,0,0
+1738661051915,297,Add Contact,201,Created,Simple Controller - Load Testing 1-7,text,true,,1061,853,10,14,https://thinking-tester-contact-list.herokuapp.com/contacts,297,0,0
+1738661051943,270,Update Contact - PUT,400,Bad Request,Simple Controller - Load Testing 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",926,938,10,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbbad458a00134b20c9,270,0,0
+1738661051994,318,Log In User,200,OK,Simple Controller - Load Testing 1-9,text,true,,1256,441,10,13,https://thinking-tester-contact-list.herokuapp.com/users/login,318,0,0
+1738661052064,298,Get Contact,200,OK,Simple Controller - Load Testing 1-6,text,true,,1056,548,10,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbbad458a00134b20cf,298,0,0
+1738661052134,282,Get User Profile,200,OK,Simple Controller - Load Testing 1-8,text,true,,862,523,10,13,https://thinking-tester-contact-list.herokuapp.com/users/me,282,0,0
+1738661051352,1103,Add Users,201,Created,Simple Controller - Load Testing 1-10,text,true,,1259,322,10,12,https://thinking-tester-contact-list.herokuapp.com/users,1103,0,777
+1738661052212,297,Get Contact List,200,OK,Simple Controller - Load Testing 1-7,text,true,,1058,852,10,12,https://thinking-tester-contact-list.herokuapp.com/contacts,297,0,0
+1738661052312,317,Update User,200,OK,Simple Controller - Load Testing 1-9,text,true,,862,674,10,11,https://thinking-tester-contact-list.herokuapp.com/users/me,317,0,0
+1738661052363,275,Update Contact - PUT,400,Bad Request,Simple Controller - Load Testing 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",926,938,10,11,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbbad458a00134b20cf,275,0,0
+1738661052416,296,Add Contact,201,Created,Simple Controller - Load Testing 1-8,text,true,,1061,853,10,11,https://thinking-tester-contact-list.herokuapp.com/contacts,296,0,0
+1738661052456,316,Log In User,200,OK,Simple Controller - Load Testing 1-10,text,true,,1256,441,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,316,0,0
+1738661052510,294,Get Contact,200,OK,Simple Controller - Load Testing 1-7,text,true,,1056,548,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbcad458a00134b20d2,294,0,0
+1738661052630,284,Get User Profile,200,OK,Simple Controller - Load Testing 1-9,text,true,,862,523,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,284,0,0
+1738661052712,299,Get Contact List,200,OK,Simple Controller - Load Testing 1-8,text,true,,1058,852,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,299,0,0
+1738661052805,266,Update Contact - PUT,400,Bad Request,Simple Controller - Load Testing 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",926,929,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbcad458a00134b20d2,266,0,0
+1738661052772,307,Update User,200,OK,Simple Controller - Load Testing 1-10,text,true,,862,674,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,307,0,0
+1738661052914,302,Add Contact,201,Created,Simple Controller - Load Testing 1-9,text,true,,1061,853,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,302,0,0
+1738661053012,290,Get Contact,200,OK,Simple Controller - Load Testing 1-8,text,true,,1056,548,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbce0f4720013abbcd0,290,0,0
+1738661053080,276,Get User Profile,200,OK,Simple Controller - Load Testing 1-10,text,true,,862,523,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,276,0,0
+1738661053216,307,Get Contact List,200,OK,Simple Controller - Load Testing 1-9,text,true,,1058,852,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,307,0,0
+1738661053303,263,Update Contact - PUT,400,Bad Request,Simple Controller - Load Testing 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",926,937,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbce0f4720013abbcd0,263,0,0
+1738661053356,292,Add Contact,201,Created,Simple Controller - Load Testing 1-10,text,true,,1061,853,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,292,0,0
+1738661053523,299,Get Contact,200,OK,Simple Controller - Load Testing 1-9,text,true,,1056,548,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbdad458a00134b20d3,299,0,0
+1738661053649,287,Get Contact List,200,OK,Simple Controller - Load Testing 1-10,text,true,,1058,852,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,287,0,0
+1738661053823,267,Update Contact - PUT,400,Bad Request,Simple Controller - Load Testing 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",926,941,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbdad458a00134b20d3,267,0,0
+1738661053936,290,Get Contact,200,OK,Simple Controller - Load Testing 1-10,text,true,,1056,548,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbde0f4720013abbcd2,290,0,0
+1738661054227,269,Update Contact - PUT,400,Bad Request,Simple Controller - Load Testing 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",926,938,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67a1dcbde0f4720013abbcd2,269,0,0
+1738661050143,30267,Update Contact - PATCH,503,Service Unavailable,Simple Controller - Load Testing 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1220,575,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,30267,0,0
+1738661080411,1,Delete Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Simple Controller - Load Testing 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738661050630,30266,Update Contact - PATCH,503,Service Unavailable,Simple Controller - Load Testing 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1220,575,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,30266,0,0
+1738661080897,1,Delete Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Simple Controller - Load Testing 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738661080412,913,Log Out User,200,OK,Simple Controller - Load Testing 1-1,,true,,663,547,10,10,https://thinking-tester-contact-list.herokuapp.com/users/logout,913,0,596
+1738661051073,30265,Update Contact - PATCH,503,Service Unavailable,Simple Controller - Load Testing 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1216,575,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,30265,0,0
+1738661081339,0,Delete Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Simple Controller - Load Testing 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738661081325,323,Add Users,201,Created,Simple Controller - Load Testing 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",1263,487,10,10,https://thinking-tester-contact-list.herokuapp.com/users,323,0,0
+1738661080898,837,Log Out User,200,OK,Simple Controller - Load Testing 1-2,,true,,663,547,10,10,https://thinking-tester-contact-list.herokuapp.com/users/logout,837,0,533
+1738661051655,30273,Update Contact - PATCH,503,Service Unavailable,Simple Controller - Load Testing 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1216,575,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,30273,0,0
+1738661081927,1,Delete Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Simple Controller - Load Testing 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738661081648,324,Log In User,200,OK,Simple Controller - Load Testing 1-1,text,true,,1260,441,10,10,https://thinking-tester-contact-list.herokuapp.com/users/login,324,0,0
+1738661081735,318,Add Users,201,Created,Simple Controller - Load Testing 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",1263,487,10,10,https://thinking-tester-contact-list.herokuapp.com/users,318,0,0
+1738661081340,847,Log Out User,200,OK,Simple Controller - Load Testing 1-3,,true,,659,547,10,10,https://thinking-tester-contact-list.herokuapp.com/users/logout,847,0,535
+1738661081971,310,Delete User,200,OK,Simple Controller - Load Testing 1-1,,true,,659,596,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,310,0,0
+1738661082053,315,Log In User,200,OK,Simple Controller - Load Testing 1-2,text,true,,1256,441,9,9,https://thinking-tester-contact-list.herokuapp.com/users/login,315,0,0
+1738661052214,30273,Update Contact - PATCH,503,Service Unavailable,Simple Controller - Load Testing 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1220,575,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/,30273,0,0
+1738661082487,0,Delete Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Simple Controller - Load Testing 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738661082186,328,Add Users,201,Created,Simple Controller - Load Testing 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",1259,487,9,9,https://thinking-tester-contact-list.herokuapp.com/users,328,0,0
+1738661082368,305,Delete User,200,OK,Simple Controller - Load Testing 1-2,,true,,659,596,9,9,https://thinking-tester-contact-list.herokuapp.com/users/me,305,0,0
+1738661081928,844,Log Out User,200,OK,Simple Controller - Load Testing 1-4,,true,,659,547,8,8,https://thinking-tester-contact-list.herokuapp.com/users/logout,844,0,540
+1738661082514,319,Log In User,200,OK,Simple Controller - Load Testing 1-3,text,true,,1256,441,8,8,https://thinking-tester-contact-list.herokuapp.com/users/login,319,0,0
+1738661052638,30274,Update Contact - PATCH,503,Service Unavailable,Simple Controller - Load Testing 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1220,575,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts/,30274,0,0
+1738661082911,1,Delete Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Simple Controller - Load Testing 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738661082772,322,Add Users,201,Created,Simple Controller - Load Testing 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",1259,487,8,8,https://thinking-tester-contact-list.herokuapp.com/users,322,0,0
+1738661082834,294,Delete User,200,OK,Simple Controller - Load Testing 1-3,,true,,659,596,8,8,https://thinking-tester-contact-list.herokuapp.com/users/me,294,0,0
+1738661082488,810,Log Out User,200,OK,Simple Controller - Load Testing 1-5,,true,,659,547,7,7,https://thinking-tester-contact-list.herokuapp.com/users/logout,810,0,516
+1738661053071,30267,Update Contact - PATCH,503,Service Unavailable,Simple Controller - Load Testing 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1220,575,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/,30267,0,0
+1738661083337,1,Delete Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Simple Controller - Load Testing 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738661083094,319,Log In User,200,OK,Simple Controller - Load Testing 1-4,text,true,,1256,441,7,7,https://thinking-tester-contact-list.herokuapp.com/users/login,319,0,0
+1738661083299,334,Add Users,201,Created,Simple Controller - Load Testing 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",1259,487,7,7,https://thinking-tester-contact-list.herokuapp.com/users,334,0,0
+1738661082912,816,Log Out User,200,OK,Simple Controller - Load Testing 1-6,,true,,659,547,7,7,https://thinking-tester-contact-list.herokuapp.com/users/logout,816,0,521
+1738661053566,30269,Update Contact - PATCH,503,Service Unavailable,Simple Controller - Load Testing 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1220,575,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/,30269,0,0
+1738661083834,1,Delete Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Simple Controller - Load Testing 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,7,7,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738661083414,475,Delete User,200,OK,Simple Controller - Load Testing 1-4,,true,,659,596,7,7,https://thinking-tester-contact-list.herokuapp.com/users/me,475,0,0
+1738661083633,306,Log In User,200,OK,Simple Controller - Load Testing 1-5,text,true,,1256,441,6,6,https://thinking-tester-contact-list.herokuapp.com/users/login,306,0,0
+1738661083728,321,Add Users,201,Created,Simple Controller - Load Testing 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",1259,487,6,6,https://thinking-tester-contact-list.herokuapp.com/users,321,0,0
+1738661083338,833,Log Out User,200,OK,Simple Controller - Load Testing 1-7,,true,,659,547,6,6,https://thinking-tester-contact-list.herokuapp.com/users/logout,833,0,529
+1738661083939,300,Delete User,200,OK,Simple Controller - Load Testing 1-5,,true,,659,596,6,6,https://thinking-tester-contact-list.herokuapp.com/users/me,300,0,0
+1738661054091,30266,Update Contact - PATCH,503,Service Unavailable,Simple Controller - Load Testing 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1220,575,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/,30266,0,0
+1738661084356,1,Delete Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Simple Controller - Load Testing 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738661084049,315,Log In User,200,OK,Simple Controller - Load Testing 1-6,text,true,,1256,441,5,5,https://thinking-tester-contact-list.herokuapp.com/users/login,315,0,0
+1738661084171,324,Add Users,201,Created,Simple Controller - Load Testing 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",1259,487,5,5,https://thinking-tester-contact-list.herokuapp.com/users,324,0,0
+1738661084364,294,Delete User,200,OK,Simple Controller - Load Testing 1-6,,true,,659,596,5,5,https://thinking-tester-contact-list.herokuapp.com/users/me,294,0,0
+1738661083835,838,Log Out User,200,OK,Simple Controller - Load Testing 1-8,,true,,659,547,4,4,https://thinking-tester-contact-list.herokuapp.com/users/logout,838,0,523
+1738661054496,30261,Update Contact - PATCH,503,Service Unavailable,Simple Controller - Load Testing 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1220,575,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,30261,0,0
+1738661084756,1,Delete Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Simple Controller - Load Testing 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1738661084496,320,Log In User,200,OK,Simple Controller - Load Testing 1-7,text,true,,1256,441,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,320,0,0
+1738661084673,317,Add Users,201,Created,Simple Controller - Load Testing 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",1259,487,4,4,https://thinking-tester-contact-list.herokuapp.com/users,317,0,0
+1738661084817,299,Delete User,200,OK,Simple Controller - Load Testing 1-7,,true,,659,596,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,299,0,0
+1738661084357,800,Log Out User,200,OK,Simple Controller - Load Testing 1-9,,true,,659,547,3,3,https://thinking-tester-contact-list.herokuapp.com/users/logout,800,0,507
+1738661084991,315,Log In User,200,OK,Simple Controller - Load Testing 1-8,text,true,,1252,441,3,3,https://thinking-tester-contact-list.herokuapp.com/users/login,315,0,0
+1738661085157,312,Add Users,201,Created,Simple Controller - Load Testing 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",1255,487,3,3,https://thinking-tester-contact-list.herokuapp.com/users,312,0,0
+1738661085306,299,Delete User,200,OK,Simple Controller - Load Testing 1-8,,true,,655,596,3,3,https://thinking-tester-contact-list.herokuapp.com/users/me,299,0,0
+1738661084757,900,Log Out User,200,OK,Simple Controller - Load Testing 1-10,,true,,655,547,2,2,https://thinking-tester-contact-list.herokuapp.com/users/logout,900,0,529
+1738661085470,312,Log In User,200,OK,Simple Controller - Load Testing 1-9,text,true,,1252,441,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,312,0,0
+1738661085657,315,Add Users,201,Created,Simple Controller - Load Testing 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 20[[[1]]]
+
+****** comparison: 20[[[0]]]
+
+/",1255,487,2,2,https://thinking-tester-contact-list.herokuapp.com/users,315,0,0
+1738661085782,285,Delete User,200,OK,Simple Controller - Load Testing 1-9,,true,,655,596,2,2,https://thinking-tester-contact-list.herokuapp.com/users/me,285,0,0
+1738661085973,324,Log In User,200,OK,Simple Controller - Load Testing 1-10,text,true,,1260,441,1,1,https://thinking-tester-contact-list.herokuapp.com/users/login,324,0,0
+1738661086298,298,Delete User,200,OK,Simple Controller - Load Testing 1-10,,true,,663,596,1,1,https://thinking-tester-contact-list.herokuapp.com/users/me,298,0,0
